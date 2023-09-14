@@ -20,21 +20,25 @@ export default function Home() {
 
       <Header />
       <main className={styles.contentContainer3}>
-        <h1>
-          Realizamos trabalhos<br />para todos os fins
-        </h1>
-        <section className={styles.hero3}>
-          <p>
-            Mãe Aurea oferece uma ampla gama de serviços para todos os fins, conectando você à energia divida.
-            Com seus experientes serviços de advinhação e cartomancia, ela pode ajuda-lo a obter clareza sobre
-            qualquer situação e a tomar decisões informadas.
-          </p>
-          <p>
-            Experimente o poder do divino com Mãe Aurea.
-          </p>
+        <div>
+          <h1>
+            Realizamos trabalhos<br />para todos os fins
+          </h1>
+          <section className={styles.hero3}>
+            <p>
+              Mãe Aurea oferece uma ampla gama de serviços para todos os fins, conectando você à energia divida.
+            </p>
+            <p>
+              Com seus experientes serviços de advinhação e cartomancia, ela pode ajuda-lo a obter clareza sobre
+              qualquer situação e a tomar decisões informadas.
+            </p>
+            <p>
+              Experimente o poder do divino com Mãe Aurea.
+            </p>
 
-          <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70 }} /> (22) 981015939</SubscribeButton>
-        </section>
+            <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70 }} /> (22) 981015939</SubscribeButton>
+          </section>
+        </div>
       </main>
 
       <main id="servicos" className={styles.contentContainer4}>

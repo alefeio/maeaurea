@@ -167,12 +167,15 @@
   div {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 30px;
+    grid-gap: 50px;
     text-align: center;
 
     span {
       img {
         width: 100%;
+        border-radius: 50%;
+        border: 2px solid var(--green-200);
+        padding: .2rem;
       }
 
       p {
@@ -612,7 +615,10 @@
   }
 
   img {
-    max-width: 100%;
+    width: 100%;
+    max-width: 350px;
+    border: 2px solid var(--green-200);
+    padding: .2rem;
   }
 
   @media (max-width: 720px) {

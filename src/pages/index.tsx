@@ -117,7 +117,7 @@ export default function Home() {
             {/* <br />
             <span>ou R$ 236,40</span> */}
           </h2>
-          <h3>Fale com a cigana:</h3>
+          {/* <h3>Fale com a cigana:</h3> */}
           <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70, maxWidth: '100%' }} /> (22) 981015939</SubscribeButton>
         </section>
       </main>

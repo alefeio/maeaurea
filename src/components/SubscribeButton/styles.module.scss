@@ -1,6 +1,6 @@
 .subscribeButton {
   max-width: 350px;
-  padding: .2rem 1rem;
+  padding: .5rem 1rem;
   border: 0;
   border-radius: 0.5rem;
   background: var(--green-200);
@@ -9,7 +9,7 @@
   font-weight: bold;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   transition: filter 0.2s;
   margin: auto;
 

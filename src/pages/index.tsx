@@ -80,6 +80,27 @@ export default function Home() {
         <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70 }} /> (22) 981015939</SubscribeButton>
       </main>
 
+      <main id="oferta-exclusiva" className={styles.contentContainer5}>
+        <section className={styles.hero5}>
+          <h1>
+            <span>OFERTA EXCLUSIVA</span>
+          </h1>
+          <img src="/images/3perguntas.png" style={{ width: 400 }} alt="Casamento espiritual" />
+          <br />
+          <span>
+            <strong>de R$ 150</strong>
+          </span>
+          <h2>
+            <span>por R$</span>
+            10,00
+            {/* <br />
+      <span>ou R$ 236,40</span> */}
+          </h2>
+          {/* <h3>Fale com a cigana:</h3> */}
+          <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70, maxWidth: '100%' }} /> (22) 981015939</SubscribeButton>
+        </section>
+      </main>
+
       <main id="duvidas" className={styles.contentContainer6}>
         <h1>
           Dúvidas
@@ -98,27 +119,6 @@ export default function Home() {
           <p>
             Esse é um Trabalho Espiritual muito poderoso, que é usado para resolver problemas na vida amorosa, como dificuldades em um relacionamento em crise, amor não correspondido ou após uma separação, quando ainda existe amor.
           </p>
-        </section>
-      </main>
-
-      <main id="oferta-exclusiva" className={styles.contentContainer5}>
-        <section className={styles.hero5}>
-          <h1>
-            <span>OFERTA EXCLUSIVA</span>
-          </h1>
-          <img src="/images/3perguntas.png" style={{ width: 400 }} alt="Casamento espiritual" />
-          <br />
-          <span>
-            <strong>de R$ 150</strong>
-          </span>
-          <h2>
-            <span>por R$</span>
-            10,00
-            {/* <br />
-            <span>ou R$ 236,40</span> */}
-          </h2>
-          {/* <h3>Fale com a cigana:</h3> */}
-          <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70, maxWidth: '100%' }} /> (22) 981015939</SubscribeButton>
         </section>
       </main>
     </>

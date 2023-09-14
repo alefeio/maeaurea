@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "mae-aurea",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -20,6 +20,8 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.3",
+    "nodemailer": "^6.6.0",
+    "sass": "^1.32.11",
     "typescript": "5.2.2"
   }
 }

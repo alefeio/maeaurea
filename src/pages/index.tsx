@@ -26,14 +26,14 @@ export default function Home() {
           </h1>
           <section className={styles.hero3}>
             <p>
-              Mãe Aurea oferece uma ampla gama de serviços para todos os fins, conectando você à energia divida.
+              Mãe Áurea oferece uma ampla gama de serviços para todos os fins, conectando você à energia divida.
             </p>
             <p>
               Com seus experientes serviços de advinhação e cartomancia, ela pode ajuda-lo a obter clareza sobre
               qualquer situação e a tomar decisões informadas.
             </p>
             <p>
-              Experimente o poder do divino com Mãe Aurea.
+              Experimente o poder do divino com Mãe Áurea.
             </p>
 
             <SubscribeButton><img src="/images/whatsapp.png" alt="WhatsApp" style={{ width: 70 }} /> (22) 981015939</SubscribeButton>
@@ -49,7 +49,7 @@ export default function Home() {
           <span>
             <img src="/images/sv-cartomancia.jpg" alt="Cartomancia" />
             <h2>Leitura de tarô</h2>
-            <p>Obtenha respostas sobre seu futuro e receba orientações com a leitura de tarô realizada pela Mãe Leticia de Iemanjá</p>
+            <p>Obtenha respostas sobre seu futuro e receba orientações com a leitura de tarô realizada pela Mãe Áurea.</p>
           </span>
           <span>
             <img src="/images/sv-amarracaoamorosa.jpg" alt="Amarracao amorosa" />
@@ -108,7 +108,7 @@ export default function Home() {
         <section className={styles.hero6}>
           <h2>O que é cartomancia</h2>
           <p>
-            Mãe Letícia de Iemanjá oferece orientação espiritual e leituras através da prática tradicional da cartomancia. Nossa experiente cartomante, Mãe Letícia, pode fornecer insights precisos e ajudar você a ter clareza sobre o caminho de sua vida. Utilizando cartas de baralho tradicionais e seus dons espirituais, Mãe Letícia pode fornecer informações e orientações sobre suas dúvidas sobre vida, amor, carreira e família.
+            Mãe Áurea oferece orientação espiritual e leituras através da prática tradicional da cartomancia. Nossa experiente cartomante, Mãe Letícia, pode fornecer insights precisos e ajudar você a ter clareza sobre o caminho de sua vida. Utilizando cartas de baralho tradicionais e seus dons espirituais, Mãe Letícia pode fornecer informações e orientações sobre suas dúvidas sobre vida, amor, carreira e família.
           </p>
           <h2>O que são trabalhos espirituais?</h2>
           <p>
